@@ -5,8 +5,8 @@ A linked list is a linear collection of data elements whose order is not given b
 
 Links referred: A doubly linked list (sometimes also called double linked list) is a type of linked list data structure that has two references in each node:
 
-> The next reference that points to the next node
-> The previous reference that points to the previous node
+* The next reference that points to the next node
+* The previous reference that points to the previous node
 
 ![DoubleLinkedList](doubly-linked-list-example.png)
 
